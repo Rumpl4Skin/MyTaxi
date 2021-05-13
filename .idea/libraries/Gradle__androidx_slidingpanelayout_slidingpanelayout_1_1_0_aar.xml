@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3e090ae567f554456c7ea0789b97f9d/slidingpanelayout-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d7114522f874f0c071a47516e43c80a/slidingpanelayout-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d7114522f874f0c071a47516e43c80a/slidingpanelayout-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d7114522f874f0c071a47516e43c80a/slidingpanelayout-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.slidingpanelayout/slidingpanelayout/1.1.0/d19a69a44de30ce4bf3c09b24694fae273e386f2/slidingpanelayout-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

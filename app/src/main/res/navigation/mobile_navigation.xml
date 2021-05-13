@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_map">
+
+    <fragment
+        android:id="@+id/nav_map"
+        android:name="com.example.mytaxi.ui.home.HomeFragment"
+        android:label="@string/menu_map"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.mytaxi.ui.gallery.GalleryFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_orders"
+        android:name="com.example.mytaxi.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_orders"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_compl_orders"
+        android:name="com.example.mytaxi.ComplOrdersFragment"
+        android:label="@string/menu_compl_orders"
+        tools:layout="@layout/fragment_compl_orders" />
+</navigation>
